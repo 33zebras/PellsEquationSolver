@@ -1,6 +1,6 @@
 # PellsEquationSolver
 ## A simple console-based Pell's Equations solver
-## 간단한 펠 방정식 계산기 프로그램
+
 
 A simple console-based Pell's Equation Solver program.   
 Created long time ago, just for my friend initially.   
@@ -11,6 +11,7 @@ Because all the complicated calculations are already available via Wolfram Alpha
 The purpose is providing fast, intuitive, easy way to the result (even without the internet).   
 Might come handy for college students, who wants to compare his/her own answer to the actual one.   
    
+## 간단한 펠 방정식 계산기 프로그램
 콘솔로 작동하는 매우 간단한 펠 방정식 계산기입니다.   
 친애하는 수학과 친구가 고통스러워하길래 꽤나 오래전에 만들었던 물건입니다.   
 (int를 long long으로 바꾼다든지 하는) 간단한 과정만 거쳐도 더 큰 값도 다룰 수 있게 만들 수는 있습니다만,   
